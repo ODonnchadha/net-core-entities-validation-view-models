@@ -292,7 +292,7 @@ AppComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_1__["ɵɵdefineCompo
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\ODonnchadha\net-core-best-practices\src\JurisTempus\client\main.ts */"Q9gb");
+module.exports = __webpack_require__(/*! C:\ODonnchadha\net-core-entities-validation-view-models\src\JurisTempus\client\main.ts */"Q9gb");
 
 
 /***/ }),
@@ -437,4 +437,4 @@ webpackEmptyAsyncContext.id = "zn8P";
 /***/ })
 
 },[[0,"runtime","vendor"]]]);
-//# sourceMappingURL=main.js.map
+//# sourceMappingURL=main-es2015.js.map

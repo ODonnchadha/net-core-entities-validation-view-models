@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\ODonnchadha\net-core-best-practices\src\JurisTempus\client\polyfills.ts */"15rF");
+module.exports = __webpack_require__(/*! C:\ODonnchadha\net-core-entities-validation-view-models\src\JurisTempus\client\polyfills.ts */"15rF");
 
 
 /***/ }),
@@ -3039,4 +3039,4 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_RESULT__;/**
 /***/ })
 
 },[[1,"runtime"]]]);
-//# sourceMappingURL=polyfills.js.map
+//# sourceMappingURL=polyfills-es2015.js.map
